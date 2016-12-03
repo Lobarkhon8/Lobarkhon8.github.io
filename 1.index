@@ -1,0 +1,26 @@
+
+<!doctype html>
+<html>
+<head>
+	<title>Promblem1</title>
+	<meta charset="utf-8">
+	<link >
+</head>
+
+<body>	
+	<h1> Fayzullaeva Lobar</h1>
+	<p><i>Student ID:</i>U1610126<p>
+	<p><i>Group number:</i>2-4-5<p>
+	<p><i> E-mail:</i>Lobar.Fayzullaeva@mail.ru<p>
+	<img src="photo1.jpg" alt="picture" width="35%" height="35%">
+<p><strong>My hobbies</strong><p>
+	<ul>
+		<li>Reading books</li>
+		<li>Coding</li>
+		<li>Listening to music</li>
+		<li>walking</li>
+	</ul>	
+	
+</body>
+
+</html>
